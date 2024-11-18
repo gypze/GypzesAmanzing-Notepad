@@ -61,6 +61,9 @@ To get started with Gypzes Amazing Notepad, follow these steps:
 
 https://gypzesamanzing-notepad.onrender.com
 
+Github URL: https://github.com/gypze/GypzesAmanzing-Notepad.git
+    
+
 ## Dependencies
 
    -express: "^4.21.1",
