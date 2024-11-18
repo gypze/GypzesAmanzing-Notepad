@@ -2,8 +2,9 @@
   "name": "gypzesamanzing-notepad",
   "version": "1.0.0",
   "description": "## Gypzes Amazing Notepad",
-  "main": "index.js",
+  "main": "Develop/server.js",
   "scripts": {
+    "start": "node Develop/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
